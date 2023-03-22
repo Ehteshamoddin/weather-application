@@ -35,7 +35,7 @@ key=here goes the key that is generated after creating account in openWeather
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/ehteshamoddin-siddiqui-b719b9206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ehteshamoddinss"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/i_am_ESS_01"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ehteshamoddin/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
